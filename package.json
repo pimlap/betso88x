@@ -9,21 +9,9 @@
     "Betso88 Login",
     "Betso88 Register"
   ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/pimlap/betso88x.git"
-  },
+  "repository": "https://github.com/pimlap/betso88x/",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
-  },
-  "bugs": {
-    "url": "https://github.com/pimlap/betso88x/"
-  },
-  "homepage": "https://github.com/pimlap/betso88x#readme",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": ""
+  }
 }
